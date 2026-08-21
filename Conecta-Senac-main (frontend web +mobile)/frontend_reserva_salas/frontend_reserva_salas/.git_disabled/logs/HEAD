@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780081938 -0300	commit (initial): Atualiza dados iniciais e remove reset do admin
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780081939 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780081939 -0300	Branch: renamed refs/heads/master to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780081969 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780081969 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780082054 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780082054 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780082080 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780082080 -0300	Branch: renamed refs/heads/main to refs/heads/main
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780082443 -0300	checkout: moving from main to Calendario-Update
+971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 2f2ecbaae8cf8a845aed8622440f1019375be4cc Enzo Lages <enzo.lages@hotmail.com> 1780082444 -0300	commit: Calendario-Update
+2f2ecbaae8cf8a845aed8622440f1019375be4cc 8fe0933e5941d30749e1af526e035e8130fd943c Enzo Lages <enzo.lages@hotmail.com> 1780086152 -0300	commit: first commit
+8fe0933e5941d30749e1af526e035e8130fd943c 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780086152 -0300	Branch: renamed refs/heads/Calendario-Update to refs/heads/main
+0000000000000000000000000000000000000000 8fe0933e5941d30749e1af526e035e8130fd943c Enzo Lages <enzo.lages@hotmail.com> 1780086152 -0300	Branch: renamed refs/heads/Calendario-Update to refs/heads/main
+8fe0933e5941d30749e1af526e035e8130fd943c 56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 Enzo Lages <enzo.lages@hotmail.com> 1780086178 -0300	commit: first commit
+56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 0000000000000000000000000000000000000000 Enzo Lages <enzo.lages@hotmail.com> 1780086178 -0300	Branch: renamed refs/heads/main to refs/heads/main
+56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 Enzo Lages <enzo.lages@hotmail.com> 1780086178 -0300	Branch: renamed refs/heads/main to refs/heads/main
+56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 bd040f37413fe8d97f4479b7886d4c02e7500e24 GitHub Copilot <copilot@github.com> 1785349957 -0300	commit: Atualiza arquivos HTML, JS e CSS do frontend
+bd040f37413fe8d97f4479b7886d4c02e7500e24 ae94e62b32dac12758779302a6d08021ff235198 GitHub Copilot <copilot@github.com> 1785350134 -0300	pull --rebase origin main (start): checkout ae94e62b32dac12758779302a6d08021ff235198
+ae94e62b32dac12758779302a6d08021ff235198 bd040f37413fe8d97f4479b7886d4c02e7500e24 GitHub Copilot <copilot@github.com> 1785350225 -0300	rebase (abort): returning to refs/heads/main
