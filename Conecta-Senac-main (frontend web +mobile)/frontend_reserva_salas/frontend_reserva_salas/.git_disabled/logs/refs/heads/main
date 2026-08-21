@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 971961bdcdae819ab44e6fe36ab7c62a7e5f74ce Enzo Lages <enzo.lages@hotmail.com> 1780082443 -0300	branch: Created from HEAD
-971961bdcdae819ab44e6fe36ab7c62a7e5f74ce 2f2ecbaae8cf8a845aed8622440f1019375be4cc Enzo Lages <enzo.lages@hotmail.com> 1780082444 -0300	commit: Calendario-Update
-2f2ecbaae8cf8a845aed8622440f1019375be4cc 8fe0933e5941d30749e1af526e035e8130fd943c Enzo Lages <enzo.lages@hotmail.com> 1780086152 -0300	commit: first commit
-8fe0933e5941d30749e1af526e035e8130fd943c 8fe0933e5941d30749e1af526e035e8130fd943c Enzo Lages <enzo.lages@hotmail.com> 1780086152 -0300	Branch: renamed refs/heads/Calendario-Update to refs/heads/main
-8fe0933e5941d30749e1af526e035e8130fd943c 56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 Enzo Lages <enzo.lages@hotmail.com> 1780086178 -0300	commit: first commit
-56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 Enzo Lages <enzo.lages@hotmail.com> 1780086178 -0300	Branch: renamed refs/heads/main to refs/heads/main
-56c2eac0f6153f1dd885478bda67bd0aa5d3ccf1 bd040f37413fe8d97f4479b7886d4c02e7500e24 GitHub Copilot <copilot@github.com> 1785349957 -0300	commit: Atualiza arquivos HTML, JS e CSS do frontend
